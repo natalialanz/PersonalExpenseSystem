@@ -38,7 +38,7 @@ Puoi avviare il programma in due modalità:
 1. PRIMO METODO: dal terminale
 Esegui lo script principale digitando il seguente comando:
 ```bash
-python src/main.py
+python main.py
 ```
 2. SECONDO METODO: Tramite IDLE (Ambiente Python)
 
